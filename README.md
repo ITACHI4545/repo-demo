@@ -1,3 +1,3 @@
 # repo-demo
 This is my first Git Repository
-Author - Itachi
+Author - Itachi Uchiha
